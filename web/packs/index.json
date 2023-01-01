@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "Papaje.json",
+    "Papaje2.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
